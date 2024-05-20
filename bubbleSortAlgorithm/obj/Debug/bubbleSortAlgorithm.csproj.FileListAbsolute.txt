@@ -1,0 +1,7 @@
+C:\Users\Mustafa Tavlı\source\repos\bubbleSortAlgorithm\bubbleSortAlgorithm\bin\Debug\bubbleSortAlgorithm.exe.config
+C:\Users\Mustafa Tavlı\source\repos\bubbleSortAlgorithm\bubbleSortAlgorithm\bin\Debug\bubbleSortAlgorithm.exe
+C:\Users\Mustafa Tavlı\source\repos\bubbleSortAlgorithm\bubbleSortAlgorithm\bin\Debug\bubbleSortAlgorithm.pdb
+C:\Users\Mustafa Tavlı\source\repos\bubbleSortAlgorithm\bubbleSortAlgorithm\obj\Debug\bubbleSortAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Mustafa Tavlı\source\repos\bubbleSortAlgorithm\bubbleSortAlgorithm\obj\Debug\bubbleSortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Tavlı\source\repos\bubbleSortAlgorithm\bubbleSortAlgorithm\obj\Debug\bubbleSortAlgorithm.exe
+C:\Users\Mustafa Tavlı\source\repos\bubbleSortAlgorithm\bubbleSortAlgorithm\obj\Debug\bubbleSortAlgorithm.pdb
